@@ -1,0 +1,17 @@
+.body {
+    background-color:#f1f1f1;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.images { 
+    display: flex; 
+    margin:10px 65px 35px -125px;
+       
+}
+
+  .segoePrintFont {
+    font-size: 20px;
+    font-family: 'Segoe Print';
+    text-align: center;
+  }

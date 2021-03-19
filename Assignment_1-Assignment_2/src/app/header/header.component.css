@@ -1,0 +1,31 @@
+.head {
+    background-color: #ededed;
+}
+.logotype1,
+.logotype1:hover,
+.logotype1 div {
+	position:relative;
+	display:inline-block;
+	font-size:25px;
+	color:#337AB7;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.2);
+	font-family: 'Russo One', sans-serif;
+	font-weight: 300;
+	text-decoration:none;
+	margin:10px 0 10px 5px;
+	line-height:16px;
+}
+
+.logotype1 b {
+	letter-spacing:1px;
+	font-size:35px;
+	color:#1C84D0;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	font-weight: 600;
+}
+
+	.logotype1 b {
+		font-size:25px;
+	}
+	
+	

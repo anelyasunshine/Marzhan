@@ -1,0 +1,10 @@
+<button type="button" class="btn btn-primary" (click)="getShares2()">
+      Show information
+    </button>
+    <div *ngFor="let share of shareList2">
+      <p>
+        Name: {{share.name}},Surname:{{share.surname}} Age: {{share.age}},Friends:{{share.fiends}},Followers:{{share.followers}}, Position: {{share.position}}
+      </p>
+    </div>
+
+
